@@ -7,3 +7,8 @@ body{
 h1 {
     color: #0089E7;
 }
+
+button{
+    background-color: tomato;
+    color: #ffff;
+}
