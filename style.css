@@ -1,3 +1,9 @@
 body{
-    background-color: burlywood;
+    background-color: #717D7E;
+    color: #fff;
+    padding-left: 5%;
+}
+
+h1 {
+    color: #0089E7;
 }
